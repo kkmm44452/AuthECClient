@@ -1,4 +1,5 @@
 # AuthECClient
+<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+learning from the youtube tutorial
+>>>>>>> e5d1b4caf5dd0365cf49c4cc5eb2115b08091920
